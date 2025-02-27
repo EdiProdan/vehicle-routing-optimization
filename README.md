@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a solution for the Capacitated Vehicle Routing Problem with Time Windows (CVRPWTW) using Ant Colony Optimization (ACO). The CVRPWTW is a classic optimization problem where a fleet of vehicles is tasked with delivering goods to a set of customers within specified time windows, while respecting vehicle capacity constraints.
+This project implements a solution for the Capacitated Vehicle Routing Problem with Time Windows (CVRPWTW) using Ant Colony Optimization (ACO) as part of a project of Heuristic Optimization Methods course. The CVRPWTW is a classic optimization problem where a fleet of vehicles is tasked with delivering goods to a set of customers within specified time windows, while respecting vehicle capacity constraints.
 
 ## Features
 
